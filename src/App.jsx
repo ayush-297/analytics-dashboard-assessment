@@ -29,7 +29,7 @@ const App = () => {
     const fetchData = async () => {
       try {
         const data = await fetchParseData();
-        console.log(data);
+        // console.log(data);
         setCsvData(data);
       } catch (error) {
         console.error("Error fetching or parsing data:", error);
