@@ -44,4 +44,4 @@ Your submission will be evaluated based on:
 
 
 ## Live Dashboard URL
-You can access the live dashboard here: [https://analytics-dashboard-assessment-eta.vercel.app/](https://analytics-dashboard-assessment-eta.vercel.app/)
+You can access the live dashboard here: [https://analytics-dashboard-assessment-lrc8iwifi.vercel.app](https://analytics-dashboard-assessment-lrc8iwifi.vercel.app)
