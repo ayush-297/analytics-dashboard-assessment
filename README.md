@@ -41,3 +41,7 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+
+## Live Dashboard URL
+You can access the live dashboard here: [https://analytics-dashboard-assessment-eta.vercel.app/](https://analytics-dashboard-assessment-eta.vercel.app/)
